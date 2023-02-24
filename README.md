@@ -1,4 +1,4 @@
-# Figma-testas
+# Figma-test
 Figma-testas
 
 
