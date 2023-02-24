@@ -22,9 +22,19 @@ html {
   
   .link {
     padding: 0.6em;
+    font-size: 20px;
     text-decoration: none;
     color: #fff;
   }
+  
+  .header .hamburger {
+    padding: 0.5em;
+    float: right;
+    font-size: 40px;
+    background-color: #74C69D;
+    color: #fff;
+    border: none;
+}
   
   h2 {
     font-size: 16px;
